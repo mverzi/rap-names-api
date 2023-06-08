@@ -1,8 +1,7 @@
 {
   "name": "rap-names-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mverzi/rap-names-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mverzi/rap-names-api/issues"
+  },
+  "homepage": "https://github.com/mverzi/rap-names-api#readme",
+  "description": ""
 }
